@@ -1,0 +1,1037 @@
+[01:44:26] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.18.0
+[01:44:30] [ForkJoinPool-1-worker-4/WARN]: The mod "dungeons_arise" contains invalid entries in its mod json:
+- Unsupported root entry "credits" at line 12 column 11
+[01:44:30] [ForkJoinPool-1-worker-1/WARN]: The mod "accessories_compat_layer" contains invalid entries in its mod json:
+- Unsupported root entry "#COMMENT_breaks" at line 53 column 20
+[01:44:32] [ForkJoinPool-1-worker-4/WARN]: Mod oceansdelight uses the version fdrf-fabric-1.0.2-1.21 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'fdrf'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[01:44:33] [main/INFO]: Loading 270 mods:
+	- accessories 1.1.0-beta.52+1.21.1
+	- accessories_compat_layer 0.1.10
+	   \-- mixinsquared 0.3.4
+	- advancednetherite 2.3.1-1.21.1
+	- amber 3.0.0+1.21.1
+	- antique_atlas 2.12.0+1.21
+	- archers 2.6.8+1.21.1
+	- architectury 13.0.8
+	- arsenal 1.3.3+1.21.1
+	   \-- shield_api 2.1.0
+	- atistructures 1.3.10
+	- azurelibarmor 3.1.1
+	- backslot 1.2.16
+	   \-- amecsapi 1.5.5+mc1.20.2
+	- balm 21.0.53
+	   \-- kuma_api 21.0.7
+	- beltborne_lanterns 1.2.3
+	- betterfortresses 1.21.1-Fabric-3.1.5
+	   \-- org_reflections_reflections 0.10.2
+	- bettermineshafts 1.21.1-Fabric-5.1.1
+	   \-- org_reflections_reflections 0.10.2
+	- bettervillage 3.3.1
+	- bl_accessories_layer 1.0.4
+	- c2me 0.3.0+alpha.0.362+1.21.1
+	   |-- c2me-base 0.3.0+alpha.0.362+1.21.1
+	   |-- c2me-client-uncapvd 0.3.0+alpha.0.362+1.21.1
+	   |-- c2me-fixes-chunkio-threading-issues 0.3.0+alpha.0.362+1.21.1
+	   |-- c2me-fixes-general-threading-issues 0.3.0+alpha.0.362+1.21.1
+	   |-- c2me-fixes-worldgen-threading-issues 0.3.0+alpha.0.362+1.21.1
+	   |-- c2me-fixes-worldgen-vanilla-bugs 0.3.0+alpha.0.362+1.21.1
+	   |-- c2me-notickvd 0.3.0+alpha.0.362+1.21.1
+	   |-- c2me-opts-allocs 0.3.0+alpha.0.362+1.21.1
+	   |-- c2me-opts-chunkio 0.3.0+alpha.0.362+1.21.1
+	   |-- c2me-opts-dfc 0.3.0+alpha.0.362+1.21.1
+	   |-- c2me-opts-math 0.3.0+alpha.0.362+1.21.1
+	   |-- c2me-opts-scheduling 0.3.0+alpha.0.362+1.21.1
+	   |-- c2me-opts-worldgen-general 0.3.0+alpha.0.362+1.21.1
+	   |-- c2me-opts-worldgen-vanilla 0.3.0+alpha.0.362+1.21.1
+	   |-- c2me-rewrites-chunk-serializer 0.3.0+alpha.0.362+1.21.1
+	   |-- c2me-rewrites-chunk-system 0.3.0+alpha.0.362+1.21.1
+	   |-- c2me-rewrites-chunkio 0.3.0+alpha.0.362+1.21.1
+	   |-- c2me-server-utils 0.3.0+alpha.0.362+1.21.1
+	   |-- c2me-threading-lighting 0.3.0+alpha.0.362+1.21.1
+	   |-- com_ibm_async_asyncutil 0.1.0
+	   |-- io_reactivex_rxjava3_rxjava 3.1.12
+	   |-- net_objecthunter_exp4j 0.4.8
+	   |-- org_jctools_jctools-core 4.0.5
+	   \-- org_reactivestreams_reactive-streams 1.0.4
+	- cardinal-components 6.1.2
+	   |-- cardinal-components-base 6.1.2
+	   |-- cardinal-components-block 6.1.2
+	   |-- cardinal-components-chunk 6.1.2
+	   |-- cardinal-components-entity 6.1.2
+	   |-- cardinal-components-item 6.1.2
+	   |-- cardinal-components-level 6.1.2
+	   |-- cardinal-components-scoreboard 6.1.2
+	   \-- cardinal-components-world 6.1.2
+	- cavedust 3.0.1
+	   \-- kirin 1.20.0+1.21
+	- cloth-config 15.0.140
+	   \-- cloth-basic-math 0.6.1
+	- clumps 19.0.0.1
+	- collective 8.13
+	- coroutil 1.21.1-1.3.8
+	- crafable_items 0.7.1
+	- cratedelight 25.9.22-1.21-fabric
+	- creativecore 2.13.14
+	   \-- net_neoforged_bus 7.2.0
+	- creeperoverhaul 4.0.6
+	   \-- com_teamresourceful_resourceful-cosmetics-4j 1.0.3
+	- cristellib 1.2.8
+	   \-- blue_endless_jankson 1.2.3
+	- crittersandcompanions 1.21.1-2.3.4
+	   |-- porting_lib_attributes 3.1.0-beta.75+1.21.1
+	   |    |-- porting_lib_core 3.1.0-beta.75+1.21.1
+	   |    \-- porting_lib_gametest 3.1.0-beta.75+1.21.1
+	   \-- porting_lib_entity 3.1.0-beta.75+1.21.1
+	        |-- porting_lib_core 3.1.0-beta.75+1.21.1
+	        |-- porting_lib_gametest 3.1.0-beta.75+1.21.1
+	        \-- porting_lib_mixin_extensions 3.1.0-beta.75+1.21.1
+	- debugify 1.21.1+1.0
+	- doubledoors 7.2
+	- dungeons_arise 2.1.68
+	- easyanvils 21.1.0
+	- easymagic 21.1.4
+	- easyshulkerboxes 21.1.3
+	   \-- iteminteractions 21.1.4
+	- expanded_ecosphere 3.4.1.1
+	- fabric-api 0.116.7+1.21.1
+	   |-- fabric-api-base 0.4.42+6573ed8c19
+	   |-- fabric-api-lookup-api-v1 1.6.71+b559734419
+	   |-- fabric-biome-api-v1 13.0.31+d527f9fd19
+	   |-- fabric-block-api-v1 1.1.0+0bc3503219
+	   |-- fabric-block-view-api-v2 1.0.11+ebb2264e19
+	   |-- fabric-blockrenderlayer-v1 1.1.52+0af3f5a719
+	   |-- fabric-client-tags-api-v1 1.1.15+6573ed8c19
+	   |-- fabric-command-api-v1 1.2.49+f71b366f19
+	   |-- fabric-command-api-v2 2.2.28+6ced4dd919
+	   |-- fabric-commands-v0 0.2.66+df3654b319
+	   |-- fabric-content-registries-v0 8.0.19+b559734419
+	   |-- fabric-convention-tags-v1 2.1.5+7f945d5b19
+	   |-- fabric-convention-tags-v2 2.11.1+a406e79519
+	   |-- fabric-crash-report-info-v1 0.2.29+0af3f5a719
+	   |-- fabric-data-attachment-api-v1 1.4.5+6116a37819
+	   |-- fabric-data-generation-api-v1 20.2.34+37516cd619
+	   |-- fabric-dimensions-v1 4.0.1+65213ef819
+	   |-- fabric-entity-events-v1 1.8.0+2b27e0a419
+	   |-- fabric-events-interaction-v0 0.7.13+ba9dae0619
+	   |-- fabric-game-rule-api-v1 1.0.53+6ced4dd919
+	   |-- fabric-item-api-v1 11.2.0+3b3cb2e819
+	   |-- fabric-item-group-api-v1 4.1.7+def88e3a19
+	   |-- fabric-key-binding-api-v1 1.0.47+0af3f5a719
+	   |-- fabric-keybindings-v0 0.2.45+df3654b319
+	   |-- fabric-lifecycle-events-v1 2.6.0+0865547519
+	   |-- fabric-loot-api-v2 3.0.15+3f89f5a519
+	   |-- fabric-loot-api-v3 1.0.3+3f89f5a519
+	   |-- fabric-message-api-v1 6.0.14+8aaf3aca19
+	   |-- fabric-model-loading-api-v1 2.1.0+b4d813fc19
+	   |-- fabric-networking-api-v1 4.3.0+c7469b2119
+	   |-- fabric-object-builder-api-v1 15.2.1+40875a9319
+	   |-- fabric-particles-v1 4.0.2+6573ed8c19
+	   |-- fabric-recipe-api-v1 5.0.15+2475392c19
+	   |-- fabric-registry-sync-v0 5.3.1+e3eddc2119
+	   |-- fabric-renderer-api-v1 3.4.1+b4d813fc19
+	   |-- fabric-renderer-indigo 1.7.1+c705a49c19
+	   |-- fabric-renderer-registries-v1 3.2.69+df3654b319
+	   |-- fabric-rendering-data-attachment-v1 0.3.49+73761d2e19
+	   |-- fabric-rendering-fluids-v1 3.1.6+1daea21519
+	   |-- fabric-rendering-v0 1.1.72+df3654b319
+	   |-- fabric-rendering-v1 5.1.0+ab4c25a019
+	   |-- fabric-resource-conditions-api-v1 4.3.0+8dc279b119
+	   |-- fabric-resource-loader-v0 1.3.1+5b5275af19
+	   |-- fabric-screen-api-v1 2.0.25+8b68f1c719
+	   |-- fabric-screen-handler-api-v1 1.3.90+b559734419
+	   |-- fabric-sound-api-v1 1.0.23+6573ed8c19
+	   |-- fabric-transfer-api-v1 5.4.3+c24bd99419
+	   \-- fabric-transitive-access-wideners-v1 6.2.0+45b9699719
+	- fabric-language-kotlin 1.13.7+kotlin.2.2.21
+	   |-- org_jetbrains_kotlin_kotlin-reflect 2.2.21
+	   |-- org_jetbrains_kotlin_kotlin-stdlib 2.2.21
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk7 2.2.21
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk8 2.2.21
+	   |-- org_jetbrains_kotlinx_atomicfu-jvm 0.29.0
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm 1.10.2
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-jdk8 1.10.2
+	   |-- org_jetbrains_kotlinx_kotlinx-datetime-jvm 0.7.1
+	   |-- org_jetbrains_kotlinx_kotlinx-io-bytestring-jvm 0.8.0
+	   |-- org_jetbrains_kotlinx_kotlinx-io-core-jvm 0.8.0
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm 1.9.0
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-core-jvm 1.9.0
+	   \-- org_jetbrains_kotlinx_kotlinx-serialization-json-jvm 1.9.0
+	- fabricloader 0.18.0
+	   \-- mixinextras 0.5.0
+	- farmersdelight 1.21.1-3.2.2+refabricated
+	   \-- mm 2.3
+	- ferritecore 7.0.2-hotfix
+	- forgeconfigapiport 21.1.6
+	   |-- com_electronwill_night-config_core 3.8.0
+	   \-- com_electronwill_night-config_toml 3.8.0
+	- framework 0.13.1
+	   |-- org_javassist_javassist 3.29.2-GA
+	   \-- org_reflections_reflections 0.10.2
+	- fzzy_config 0.7.3+1.21
+	   |-- blue_endless_jankson 1.2.3
+	   |-- fabric-permissions-api-v0 0.3.1
+	   \-- net_peanuuutz_tomlkt_tomlkt-jvm 0.3.7
+	- geckolib 4.8.2
+	- ghosts 1.2.0
+	- herbalbrews 1.1.2
+	- incendium 5.4.3
+	- jamlib 1.3.5+1.21.1
+	   \-- blue_endless_jankson 1.2.3
+	- java 21
+	- jei 19.25.1.328
+	- jewelry 2.3.1+1.21.1
+	- kafvalentine 2.1.0
+	- kiwi 15.1.1+fabric
+	- knightlib 1.3.0
+	- knightquest 1.9.0
+	- lavender 0.1.15+1.21
+	   |-- lavender-md 0.1.2+1.21
+	   \-- lavender-md-owo-ui 0.1.2+1.21
+	- leafmealone 1.0.1
+	- libraryferret 4.0.0
+	- lithium 0.15.0+mc1.21.1
+	- lootr 1.21-1.10.35.91
+	- minecraft 1.21.1
+	- mob-ai-tweaks 1.9.2
+	- modernfix 5.25.1+mc1.21.1
+	- moogs_structures 1.0.1-1.21-1.21.1-fabric
+	- moonlight 1.21-2.26.3
+	- moredelight 25.7.28-1.21-fabric
+	- mr_dungeons_andtaverns 1-v4.4.4
+	- mr_dungeons_andtavernsancientcityoverhaul 1-v2
+	- mr_dungeons_andtavernswoodlandmansionreplacement 1-v1.2
+	- mr_fortunate_ancientdebris 3.5.1
+	- mr_oldschool_netherite 1.3
+	- mru 1.0.19+LTS+1.21.1+fabric
+	   \-- org_commonmark_commonmark 0.21.0
+	- mss 2.0.0
+	- musketmod 1.5.4
+	- mynethersdelight 1.21.1-2.0.3+1.7.8.refabricated
+	- nullscape 1.2.14
+	- oceansdelight fdrf-fabric-1.0.2-1.21
+	- owo 0.12.15.4+1.21
+	   |-- io_wispforest_endec 0.1.5.1
+	   |-- io_wispforest_endec_gson 0.1.3.1
+	   |-- io_wispforest_endec_jankson 0.1.3.1
+	   \-- io_wispforest_endec_netty 0.1.2
+	- paladins 2.6.4+1.21.1
+	   \-- shield_api 2.1.0
+	- panda_plushies 1.3.0
+	- pineapple_delight 1.1.0-1.21.1-fabric-fix
+	- playeranimator 2.0.1+1.21.1
+	- plushie_buddies 0.1.7-1.21.1
+	   \-- midnightlib 1.6.9
+	- pneumonocore 1.21.1
+	- puzzleslib 21.1.39
+	- ranged_weapon_api 2.3.2+1.21.1
+	- refurbished_furniture 1.0.20
+	- relics_rpgs 1.2.1+1.21.1
+	- resourcefulconfig 3.0.11
+	- resourcefullib 3.0.12
+	   |-- com_teamresourceful_bytecodecs 1.1.2
+	   \-- com_teamresourceful_yabn 1.0.3
+	- rightclickharvest 4.6.0+1.21.1
+	- rogues 2.6.4+1.21.1
+	- runes 1.2.1+1.21.1
+	   \-- bundleapi 1.1.0
+	- rusticdelight 1.4.2
+	- seeddelight 0.1
+	- silk-all 1.10.7
+	   |-- silk-commands 1.10.7
+	   |-- silk-core 1.10.7
+	   |-- silk-game 1.10.7
+	   |-- silk-igui 1.10.7
+	   |-- silk-nbt 1.10.7
+	   |-- silk-network 1.10.7
+	   \-- silk-persistence 1.10.7
+	- sittingplus 2.0.6
+	- skinrestorer 2.4.3+1.21-fabric
+	   \-- org_mineskin_java-client 3.0.6-SNAPSHOT
+	- skyvillages 1.0.6
+	- snowrealmagic 12.1.2+fabric
+	- sophisticatedbackpacks 1.21.1-3.23.4.3.106
+	- sophisticatedcore 1.21.1-1.2.9.20.164
+	   |-- porting_lib_conditions 3.1.0-beta.47+1.21.1
+	   |-- porting_lib_fluids 3.1.0-beta.47+1.21.1
+	   |-- porting_lib_item_abilities 3.1.0-beta.47+1.21.1
+	   |-- porting_lib_lazy_registration 3.1.0-beta.47+1.21.1
+	   |-- porting_lib_level_events 3.1.0-beta.47+1.21.1
+	   |-- porting_lib_loot 3.1.0-beta.47+1.21.1
+	   |-- porting_lib_model_loader 3.1.0-beta.47+1.21.1
+	   |-- porting_lib_render_types 3.1.0-beta.47+1.21.1
+	   |-- porting_lib_transfer 3.1.0-beta.47+1.21.1
+	   \-- team_reborn_energy 4.1.0
+	- soulbound-gravestones 2.0.2+1.21.1
+	- sound_physics_remastered 1.21.1-1.5.1
+	- spell_engine 1.8.15+1.21.1
+	   \-- tiny_config 3.1.0
+	- spell_power 1.4.4+1.21.1
+	   \-- tiny_config 3.1.0
+	- structory 1.3.13
+	- structure_pool_api 1.2.1+1.21.1
+	- supermartijn642corelib 1.1.18+a
+	- supplementaries 1.21-3.4.20
+	- surveyor 0.6.26+1.21
+	   \-- folk_sisby_kaleido-config 0.3.1+1.3.2
+	- terrablender 4.1.0.8
+	- trailandtales_delight 1.3
+	- trashslot 21.1.4
+	- trinkets 3.10.0
+	- variantsandventures 1.0.19
+	- vc_gliders 1.1.8
+	   \-- commonnetworking 1.0.16-1.21
+	- veinminer 2.4.2
+	   |-- de_miraculixx_core_dev 2.4.2
+	   \-- fabric-permissions-api-v0 0.3.1
+	- village_taverns 1.1.5+1.21.1
+	   \-- tiny_config 3.1.0
+	- watut 1.21.0-1.2.7
+	- waystones 21.1.23
+	- wizards 2.6.5+1.21.1
+	- yet_another_config_lib_v3 3.8.0+1.21.1-fabric
+	   |-- com_twelvemonkeys_common_common-image 3.12.0
+	   |-- com_twelvemonkeys_common_common-io 3.12.0
+	   |-- com_twelvemonkeys_common_common-lang 3.12.0
+	   |-- com_twelvemonkeys_imageio_imageio-core 3.12.0
+	   |-- com_twelvemonkeys_imageio_imageio-metadata 3.12.0
+	   |-- com_twelvemonkeys_imageio_imageio-webp 3.12.0
+	   |-- org_quiltmc_parsers_gson 0.2.1
+	   \-- org_quiltmc_parsers_json 0.2.1
+	- yungsapi 1.21.1-Fabric-5.1.6
+	   |-- org_javassist_javassist 3.29.2-GA
+	   \-- org_reflections_reflections 0.10.2
+	- yungsbridges 1.21.1-Fabric-5.1.1
+	   \-- org_reflections_reflections 0.10.2
+[01:44:35] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/apiolindo/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[01:44:35] [main/INFO]: Compatibility level set to JAVA_17
+[01:44:35] [main/INFO]: Compatibility level set to JAVA_21
+[01:44:35] [main/WARN]: Reference map 'amber-common-1.21.1-common-refmap.json' for amber.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:44:35] [main/WARN]: Reference map 'arsenal-common-common-refmap.json' for arsenal.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:44:35] [main/WARN]: Reference map 'beltborne_lanterns.refmap.json' for beltborne_lanterns.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:44:35] [main/WARN]: Reference map 'bl_accessories_layer-common-modules_common-refmap.json' for bl_accessories_layer.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:44:35] [main/INFO]: Initializing com.ishland.c2me.base.mixin
+[01:44:35] [main/INFO]: Global Executor Parallelism: 3 configured, 3 evaluated, 3 default evaluated
+[01:44:35] [main/INFO]: Initializing com.ishland.c2me.fixes.chunkio.threading_issues.mixin
+[01:44:35] [main/INFO]: Initializing com.ishland.c2me.fixes.general.threading_issues.mixin
+[01:44:35] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.threading_issues.mixin
+[01:44:35] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.vanilla_bugs.mixin
+[01:44:35] [main/INFO]: Initializing com.ishland.c2me.notickvd.mixin
+[01:44:35] [main/INFO]: Initializing com.ishland.c2me.opts.allocs.mixin
+[01:44:35] [main/INFO]: Initializing com.ishland.c2me.opts.chunkio.mixin
+[01:44:35] [main/INFO]: Initializing com.ishland.c2me.opts.dfc.mixin
+[01:44:35] [main/INFO]: Disabling com.ishland.c2me.opts.dfc.mixin
+[01:44:35] [main/INFO]: Initializing com.ishland.c2me.opts.math.mixin
+[01:44:35] [main/INFO]: Initializing com.ishland.c2me.opts.scheduling.mixin
+[01:44:35] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.general.mixin
+[01:44:35] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.vanilla.mixin
+[01:44:35] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunk_serializer.mixin
+[01:44:35] [main/INFO]: Disabling config ioSystem.gcFreeChunkSerializer: Incompatible with architectury@13.0.8 (*) (defined in c2me)
+[01:44:35] [main/INFO]: Disabling com.ishland.c2me.rewrites.chunk_serializer.mixin
+[01:44:35] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunksystem.mixin
+[01:44:35] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunkio.mixin
+[01:44:35] [main/INFO]: Initializing com.ishland.c2me.server.utils.mixin
+[01:44:35] [main/INFO]: Initializing com.ishland.c2me.threading.lighting.mixin
+[01:44:35] [main/WARN]: Reference map 'coroutil.refmap.json' for coroutil_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:44:35] [main/WARN]: Reference map 'easyshulkerboxes.common.refmap.json' for easyshulkerboxes.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:44:35] [main/WARN]: Reference map 'easyshulkerboxes.fabric.refmap.json' for easyshulkerboxes.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:44:35] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:44:35] [main/WARN]: Reference map 'iteminteractions.fabric.refmap.json' for iteminteractions.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:44:35] [main/WARN]: Reference map 'jewelry-common-common-refmap.json' for jewelry.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:44:35] [main/WARN]: Reference map 'kafvalentine-common-1.21.1-common-refmap.json' for kafvalentine.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:44:35] [main/WARN]: Mod 'ferritecore' attempted to override option 'mixin.alloc.blockstate', which doesn't exist, ignoring
+[01:44:35] [main/WARN]: Mod 'supplementaries' attempted to override option 'mixins.block.moving_block_shapes', which doesn't exist, ignoring
+[01:44:35] [main/INFO]: Option 'mixin.entity.collisions.fluid' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.entity.collisions.fluid=false'.
+[01:44:35] [main/INFO]: Option 'mixin.experimental.entity.block_caching.block_support' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.block_support=false'.
+[01:44:35] [main/INFO]: Option 'mixin.experimental.entity.block_caching.fluid_pushing' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.fluid_pushing=false'.
+[01:44:35] [main/INFO]: Option 'mixin.experimental.entity.block_caching.block_touching' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.block_touching=false'.
+[01:44:35] [main/INFO]: Option 'mixin.experimental.entity.block_caching.suffocation' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.suffocation=false'.
+[01:44:35] [main/INFO]: Option 'mixin.experimental.entity.block_caching' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching=false'.
+[01:44:35] [main/INFO]: Loaded configuration file for Lithium: 149 options available, 1 override(s) found
+[01:44:35] [main/INFO]: Loaded configuration file for ModernFix 5.25.1+mc1.21.1: 65 options available, 3 override(s) found
+[01:44:35] [main/WARN]: Option 'mixin.bugfix.paper_chunk_patches' overriden (by mods [c2me]) to 'false'
+[01:44:35] [main/WARN]: Option 'mixin.perf.cache_strongholds' overriden (by mods [c2me]) to 'false'
+[01:44:35] [main/WARN]: Option 'mixin.bugfix.chunk_deadlock' overriden (by mods [c2me]) to 'false'
+[01:44:35] [main/INFO]: Applying Nashorn fix
+[01:44:36] [main/WARN]: Reference map 'paladins-common-common-refmap.json' for paladins.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:44:36] [main/WARN]: Reference map 'relics-common-common-refmap.json' for relics_rpgs.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:44:36] [main/WARN]: Reference map 'skyvillages-common-common-refmap.json' for skyvillages.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:44:36] [main/WARN]: Reference map 'tiny_config-common-common-refmap.json' for tiny_config.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:44:36] [main/WARN]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:44:36] [main/WARN]: Reference map 'trashslot.refmap.json' for trashslot.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:44:36] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:44:36] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:44:36] [main/WARN]: Error loading class: net/minecraft/class_906 (java.lang.ClassNotFoundException: net/minecraft/class_906)
+[01:44:36] [main/WARN]: @Mixin target net.minecraft.class_906 was not found porting_lib_item_abilities.mixins.json:FishingHookRendererMixin from mod porting_lib_item_abilities
+[01:44:36] [main/WARN]: Error loading class: ca/spottedleaf/starlight/common/thread/SchedulingUtil (java.lang.ClassNotFoundException: ca/spottedleaf/starlight/common/thread/SchedulingUtil)
+[01:44:36] [main/WARN]: Error loading class: net/minecraft/class_638$class_5271 (java.lang.ClassNotFoundException: net/minecraft/class_638$class_5271)
+[01:44:36] [main/WARN]: @Mixin target net.minecraft.class_638$class_5271 was not found cavedust.mixins.json:ClientWorldAccessor from mod cavedust
+[01:44:36] [main/WARN]: Error loading class: net/minecraft/class_340 (java.lang.ClassNotFoundException: net/minecraft/class_340)
+[01:44:36] [main/WARN]: @Mixin target net.minecraft.class_340 was not found cavedust.mixins.json:MixinDebugScreenOverlay from mod cavedust
+[01:44:37] [main/WARN]: Error loading class: com/electronwill/nightconfig/core/io/IoUtils (java.lang.ClassNotFoundException: com/electronwill/nightconfig/core/io/IoUtils)
+[01:44:37] [main/INFO]: Force-disabling mixin 'block.moving_block_shapes.PistonMovingBlockEntityMixin' as rule 'mixin.block.moving_block_shapes' (added by mods [supplementaries]) disables it and children
+[01:44:37] [main/INFO]: Force-disabling mixin 'block.moving_block_shapes.VoxelShapeMixin' as rule 'mixin.block.moving_block_shapes' (added by mods [supplementaries]) disables it and children
+[01:44:37] [main/WARN]: Error loading class: org/confluence/terraentity/entity/monster/Decayeder (java.lang.ClassNotFoundException: org/confluence/terraentity/entity/monster/Decayeder)
+[01:44:37] [main/WARN]: Error loading class: org/confluence/terraentity/entity/monster/demoneye/DemonEyeSurroundTargetGoal (java.lang.ClassNotFoundException: org/confluence/terraentity/entity/monster/demoneye/DemonEyeSurroundTargetGoal)
+[01:44:37] [main/WARN]: Error loading class: org/confluence/terraentity/entity/boss/EyeOfCthulhu (java.lang.ClassNotFoundException: org/confluence/terraentity/entity/boss/EyeOfCthulhu)
+[01:44:37] [main/WARN]: Error loading class: org/confluence/terraentity/entity/boss/Skeletron (java.lang.ClassNotFoundException: org/confluence/terraentity/entity/boss/Skeletron)
+[01:44:37] [main/WARN]: Error loading class: net/minecraft/class_525 (java.lang.ClassNotFoundException: net/minecraft/class_525)
+[01:44:37] [main/WARN]: @Mixin target net.minecraft.class_525 was not found moonlight.mixins.json:CreateWorldScreenMixin from mod moonlight
+[01:44:37] [main/WARN]: Error loading class: net/minecraft/class_287 (java.lang.ClassNotFoundException: net/minecraft/class_287)
+[01:44:37] [main/WARN]: @Mixin target net.minecraft.class_287 was not found owo.mixins.json:BufferBuilderAccessor from mod owo
+[01:44:37] [main/WARN]: Error loading class: net/minecraft/class_437 (java.lang.ClassNotFoundException: net/minecraft/class_437)
+[01:44:37] [main/WARN]: @Mixin target net.minecraft.class_437 was not found owo.mixins.json:ScreenAccessor from mod owo
+[01:44:37] [main/WARN]: Error loading class: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage)
+[01:44:37] [main/WARN]: Error loading class: net/minecraft/class_638 (java.lang.ClassNotFoundException: net/minecraft/class_638)
+[01:44:37] [main/WARN]: @Mixin target net.minecraft.class_638 was not found porting_lib_level_events.mixins.json:client.ClientLevelMixin from mod porting_lib_level_events
+[01:44:37] [main/WARN]: Error loading class: net/minecraft/class_310 (java.lang.ClassNotFoundException: net/minecraft/class_310)
+[01:44:37] [main/WARN]: @Mixin target net.minecraft.class_310 was not found shield_api.mixins.json:client.MinecraftClientMixin from mod shield_api
+[01:44:37] [main/WARN]: Error loading class: fuzs/diagonalblocks/world/phys/shapes/VoxelCollection (java.lang.ClassNotFoundException: fuzs/diagonalblocks/world/phys/shapes/VoxelCollection)
+[01:44:37] [main/WARN]: @Mixin target fuzs.diagonalblocks.world.phys.shapes.VoxelCollection was not found snowrealmagic.mixins.json:diagonalblocks.VoxelCollectionAccess from mod snowrealmagic
+[01:44:37] [main/WARN]: Error loading class: sereneseasons/season/RandomUpdateHandler (java.lang.ClassNotFoundException: sereneseasons/season/RandomUpdateHandler)
+[01:44:37] [main/WARN]: @Mixin target sereneseasons.season.RandomUpdateHandler was not found snowrealmagic.mixins.json:sereneseasons.RandomUpdateHandlerMixin from mod snowrealmagic
+[01:44:37] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer)
+[01:44:38] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[01:44:39] [main/WARN]: @Inject(@At("INVOKE")) Shift.BY=1 on crittersandcompanions.mixins.json:LivingEntityMixin from mod crittersandcompanions::handler$bdc000$crittersandcompanions$onDie exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[01:44:41] [main/WARN]: Static binding violation: PRIVATE @Overwrite method method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[01:44:41] [main/WARN]: Method overwrite conflict for method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix, previously written by net.caffeinemc.mods.lithium.mixin.world.temperature_cache.BiomeMixin. Skipping method.
+[01:44:43] [main/WARN]: Method overwrite conflict for method_5652 in supplementaries-common.mixins.json:ZombieHorseMixin from mod supplementaries, previously written by com.notunanancyowen.mixin.ZombieHorseEntityMixin. Skipping method.
+[01:44:43] [main/WARN]: Method overwrite conflict for method_5749 in supplementaries-common.mixins.json:ZombieHorseMixin from mod supplementaries, previously written by com.notunanancyowen.mixin.ZombieHorseEntityMixin. Skipping method.
+[01:44:45] [main/INFO]: Vanilla bootstrap took 6770 milliseconds
+[01:44:45] [main/INFO]: fabric loader environment detected
+[01:44:46] [main/INFO]: Reflections took 291 ms to scan 1 urls, producing 9 keys and 76 values
+[01:44:46] [main/ERROR]: No data fixer registered for seat
+[01:44:47] [main/INFO]: Setting up compat modules for Accessories!
+[01:44:47] [main/INFO]: Registered Trinkets Reloaded Listeners
+[01:44:47] [main/INFO]: Initializing platform helper for Advanced Netherite!
+[01:44:47] [main/INFO]: Everlasting Amber Dreams.
+[01:44:48] [main/INFO]: Initializing v1.2.3 [Fabric]
+[01:44:48] [main/INFO]: Loaded compatibility layer for mod: accessories
+[01:44:48] [main/INFO]: Accessories integration active [Fabric]
+[01:44:48] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 1 values
+[01:44:48] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[01:44:48] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[01:44:48] [main/INFO]: Reflections took 0 ms to scan 1 urls, producing 1 keys and 2 values
+[01:44:48] [main/INFO]: Customized Bundles!
+[01:44:48] [main/INFO]: Loading Collective version 8.13.
+[01:44:48] [main/INFO]: Registering Item Groups for cratedelight
+[01:44:48] [main/INFO]: Registering ModBLocks for cratedelight
+[01:44:48] [main/ERROR]: No data fixer registered for jungle_creeper
+[01:44:48] [main/ERROR]: No data fixer registered for bamboo_creeper
+[01:44:48] [main/ERROR]: No data fixer registered for desert_creeper
+[01:44:48] [main/ERROR]: No data fixer registered for badlands_creeper
+[01:44:48] [main/ERROR]: No data fixer registered for hills_creeper
+[01:44:48] [main/ERROR]: No data fixer registered for savannah_creeper
+[01:44:48] [main/ERROR]: No data fixer registered for mushroom_creeper
+[01:44:48] [main/ERROR]: No data fixer registered for swamp_creeper
+[01:44:48] [main/ERROR]: No data fixer registered for dripstone_creeper
+[01:44:48] [main/ERROR]: No data fixer registered for cave_creeper
+[01:44:48] [main/ERROR]: No data fixer registered for dark_oak_creeper
+[01:44:48] [main/ERROR]: No data fixer registered for spruce_creeper
+[01:44:48] [main/ERROR]: No data fixer registered for beach_creeper
+[01:44:48] [main/ERROR]: No data fixer registered for snowy_creeper
+[01:44:48] [main/ERROR]: No data fixer registered for ocean_creeper
+[01:44:48] [main/ERROR]: No data fixer registered for birch_creeper
+[01:44:48] [main/ERROR]: No data fixer registered for dragonfly
+[01:44:48] [main/ERROR]: No data fixer registered for dumbo_octopus
+[01:44:48] [main/ERROR]: No data fixer registered for ferret
+[01:44:48] [main/ERROR]: No data fixer registered for jumping_spider
+[01:44:48] [main/ERROR]: No data fixer registered for koi_fish
+[01:44:48] [main/ERROR]: No data fixer registered for leaf_insect
+[01:44:48] [main/ERROR]: No data fixer registered for otter
+[01:44:48] [main/ERROR]: No data fixer registered for red_panda
+[01:44:48] [main/ERROR]: No data fixer registered for sea_bunny
+[01:44:48] [main/ERROR]: No data fixer registered for shima_enaga
+[01:44:48] [main/INFO]: Enabled 28 bug fixes: [MC-2025, MC-7569, MC-8187, MC-30391, MC-69216, MC-88371, MC-89146, MC-93018, MC-100991, MC-119417, MC-119754, MC-121706, MC-121903, MC-129909, MC-132878, MC-135971, MC-155509, MC-160095, MC-179072, MC-183990, MC-199467, MC-200418, MC-206922, MC-215530, MC-223153, MC-224729, MC-231743, MC-232869]
+[01:44:48] [main/INFO]: Successfully Debugify'd your game!
+[01:44:48] [main/INFO]: Constructing common components for easyanvils:main
+[01:44:48] [main/INFO]: Dispatching loading event for config easyanvils-common.toml
+[01:44:48] [main/INFO]: Constructing common components for easymagic:main
+[01:44:48] [main/INFO]: Dispatching loading event for config easymagic-common.toml
+[01:44:48] [main/INFO]: Constructing common components for easyshulkerboxes:main
+[01:44:48] [main/INFO]: Loading Expanded Ecosphere
+[01:44:50] [main/WARN]: [Expanded Ecosphere Updater] Found an update!
+[01:44:50] [main/INFO]: Loaded config farmersdelight-common.json
+[01:44:50] [main/ERROR]: No data fixer registered for ghosts:ghost
+[01:44:50] [main/ERROR]: No data fixer registered for ghosts:small_ghost
+[01:44:50] [main/INFO]: Constructing common components for iteminteractions:main
+[01:44:50] [main/INFO]: Initializing JamLib on Fabric
+[01:44:50] [main/INFO]: For Aristea.
+[01:44:50] [main/ERROR]: No data fixer registered for knightlib:great_chalice_starset_ring
+[01:44:50] [main/ERROR]: No data fixer registered for gremlin
+[01:44:50] [main/ERROR]: No data fixer registered for eldbomb
+[01:44:50] [main/ERROR]: No data fixer registered for eldknight
+[01:44:50] [main/ERROR]: No data fixer registered for samhain
+[01:44:50] [main/ERROR]: No data fixer registered for swampman
+[01:44:50] [main/ERROR]: No data fixer registered for fallen_knight
+[01:44:50] [main/ERROR]: No data fixer registered for ratman
+[01:44:50] [main/ERROR]: No data fixer registered for lizzy
+[01:44:50] [main/ERROR]: No data fixer registered for bad_patch
+[01:44:50] [main/ERROR]: No data fixer registered for ghastling
+[01:44:50] [main/ERROR]: No data fixer registered for ghosty
+[01:44:50] [main/ERROR]: No data fixer registered for netherman
+[01:44:50] [main/ERROR]: No data fixer registered for netherman_clone
+[01:44:50] [main/ERROR]: No data fixer registered for netherman_projectile_charge
+[01:44:50] [main/ERROR]: No data fixer registered for swampman_axe
+[01:44:50] [main/INFO]: Initialize mod Library Ferret
+[01:44:50] [main/INFO]: Initialized mod Library Ferret
+[01:44:50] [main/INFO]: Definitely not up to no good
+[01:44:50] [main/INFO]: Loaded config moonlight-common.json
+[01:44:50] [main/INFO]: Configuration has been loaded
+[01:44:50] [main/ERROR]: No data fixer registered for bullet
+[01:44:51] [main/INFO]: Registering Items for oceansdelight
+[01:44:51] [main/INFO]: Registering Blocks for oceansdelight
+[01:44:51] [main/INFO]: Registering tabs for oceansdelight
+[01:44:51] [main/INFO]: This custom packet isn't supported by Gadget - Add support via DrawPacketHandler.EVENT
+[01:44:51] [main/INFO]: Registering Item Groups for plushie_buddies
+[01:44:51] [main/INFO]: Registering Mod Items for plushie_buddies
+[01:44:51] [main/INFO]: Registering ModBlocks for plushie_buddies
+[01:44:51] [main/INFO]: Registering Sounds for plushie_buddies
+[01:44:51] [main/INFO]: Initializing PneumonoCore
+[01:44:51] [main/INFO]: Constructing common components for puzzleslib:main
+[01:44:51] [main/INFO]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
+[01:44:51] [main/INFO]: Updated config file at /workspaces/apiolindo/servidor_minecraft/config/rightclickharvest.json5
+[01:44:51] [main/INFO]: Initializing Right Click Harvest on FABRIC
+[01:44:51] [main/INFO]: Registering items for rusticdelight
+[01:44:51] [main/INFO]: Registering blocks for rusticdelight
+[01:44:51] [main/INFO]: Registering potions for rusticdelight
+[01:44:51] [main/INFO]: Registering biome modifications for rusticdelight
+[01:44:51] [main/INFO]: Registering item group for rusticdelight
+[01:44:51] [main/INFO]: Shield API initialized!
+[01:44:51] [main/INFO]: Initializing Silk
+[01:44:51] [main/ERROR]: No data fixer registered for 
+[01:44:51] [main/INFO]: Initializing Gravestones
+[01:44:51] [main/ERROR]: No data fixer registered for gravestone_skeleton
+[01:44:51] [main/INFO]: Checking mod compatibility...
+[01:44:51] [main/INFO]: Trinkets loaded: true
+[01:44:51] [main/INFO]: Accessories loaded: true
+[01:44:51] [main/INFO]: Registering Trinkets compatibility
+[01:44:51] [main/INFO]: Registering Accessories compatibility
+[01:44:51] [main/INFO]: Registering AccessoriesDataType...
+[01:44:51] [main/INFO]: AccessoriesDataType registered successfully!
+[01:44:51] [main/INFO]: Registering Accessories death callback to disable item drops...
+[01:44:51] [main/INFO]: Accessories death callback registered successfully!
+[01:44:51] [main/INFO]: Gravestone key drop prevention enabled via entity tracking
+[01:44:51] [main/INFO]: Loaded config supplementaries-common.json
+[01:44:52] [main/INFO]: [Surveyor] is not a map mod
+[01:44:52] [main/INFO]: Deserializing VariantsAndVenturesConfig from 'config/variantsandventures.json'
+[01:44:52] [main/INFO]: Veinminer Version: 2.4.2 (fabric)
+[01:44:52] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 3 values
+[01:44:52] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 3 values
+[01:44:52] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[01:44:52] [DefaultDispatcher-worker-2/INFO]: [STDOUT]: [VeinminerUpdater] veinminer is up to date
+[01:44:52] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[01:44:53] [main/INFO]: Processing 5 KiwiModule annotations
+[01:44:53] [main/INFO]: Module [snowrealmagic:core] initialized
+[01:44:53] [main/INFO]: 		block: 11, block_entity_type: 2, loot_pool_entry_type: 1
+[01:44:53] [main/INFO]: Module [kiwi:data] initialized
+[01:44:53] [main/INFO]: 		recipe_serializer: 2
+[01:44:53] [main/ERROR]: No data fixer registered for dispenser_minecart
+[01:44:53] [main/ERROR]: No data fixer registered for falling_urn
+[01:44:53] [main/ERROR]: No data fixer registered for falling_ash
+[01:44:53] [main/ERROR]: No data fixer registered for falling_sack
+[01:44:53] [main/ERROR]: No data fixer registered for brick_projectile
+[01:44:53] [main/ERROR]: No data fixer registered for slimeball_projectile
+[01:44:53] [main/ERROR]: No data fixer registered for bomb
+[01:44:53] [main/ERROR]: No data fixer registered for cannonball
+[01:44:53] [main/ERROR]: No data fixer registered for rope_arrow
+[01:44:53] [main/ERROR]: No data fixer registered for slingshot_projectile
+[01:44:53] [main/ERROR]: No data fixer registered for cannon_boat
+[01:44:53] [main/INFO]: Initialized block sets in 9ms
+[01:44:53] [main/INFO]: Initialized color sets in 22ms
+[01:44:53] [main/INFO]: Finished mod setup in: [0, 0, 0, 0, 0, 0] ms
+[01:44:53] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:44:54] [main/INFO]: Resource cache state for SERVER_DATA: up to date
+[01:44:54] [main/INFO]: Populated search tree for pack at /workspaces/apiolindo/servidor_minecraft/dynamic-data-pack-cache/supplementaries-generated_pack in 2.380 ms
+[01:44:54] [main/INFO]: Starting runtime resource generation for pack type SERVER_DATA with generators [supplementaries:generated_pack]
+[01:44:54] [main/INFO]: Skipping regeneration for Dynamic SERVER_DATA Resources Provider [supplementaries:generated_pack] (cache up-to-date)
+[01:44:54] [main/INFO]: Finished runtime resources generation for 1 packs in a total of 287.1 μs 
+[01:44:54] [main/INFO]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
+[01:44:56] [Worker-Main-3/INFO]: Modifying loot table: ResourceKey[minecraft:loot_table / nova_structures:spawners/end_lighthouse/spawner_lighthouse]
+[01:44:56] [Worker-Main-3/INFO]: Modifying loot table: ResourceKey[minecraft:loot_table / mss:houses_rare]
+[01:44:56] [Worker-Main-3/INFO]: Modifying loot table: ResourceKey[minecraft:loot_table / minecraft:chests/village/village_jungle_house]
+[01:44:56] [Worker-Main-3/INFO]: Modifying loot table: ResourceKey[minecraft:loot_table / farmersdelight:chests/fd_village_plains_house]
+[01:44:56] [Worker-Main-3/INFO]: Modifying loot table: ResourceKey[minecraft:loot_table / dungeons_arise:chests/bathhouse/bathhouse_normal]
+[01:44:56] [Worker-Main-3/INFO]: Modifying loot table: ResourceKey[minecraft:loot_table / dungeons_arise:chests/lighthouse/lighthouse_top]
+[01:44:56] [Worker-Main-3/INFO]: Modifying loot table: ResourceKey[minecraft:loot_table / skyvillages:chests/sky_village_normal_house]
+[01:44:56] [Worker-Main-3/INFO]: Modifying loot table: ResourceKey[minecraft:loot_table / mss:houses_flower]
+[01:44:56] [Worker-Main-3/INFO]: Modifying loot table: ResourceKey[minecraft:loot_table / farmersdelight:chests/fd_village_snowy_house]
+[01:44:56] [Worker-Main-3/INFO]: Modifying loot table: ResourceKey[minecraft:loot_table / nova_structures:chests/end_castle/treasure_lighthouse]
+[01:44:56] [Worker-Main-3/INFO]: Modifying loot table: ResourceKey[minecraft:loot_table / mss:houses_books]
+[01:44:56] [Worker-Main-3/INFO]: Modifying loot table: ResourceKey[minecraft:loot_table / dungeons_arise:chests/mushroom_house/mushroom_house_normal]
+[01:44:56] [Worker-Main-3/INFO]: Modifying loot table: ResourceKey[minecraft:loot_table / incendium:castle/barrel/greenhouse_secret]
+[01:44:56] [Worker-Main-3/INFO]: Modifying loot table: ResourceKey[minecraft:loot_table / mss:houses_desert]
+[01:44:56] [Worker-Main-3/INFO]: Modifying loot table: ResourceKey[minecraft:loot_table / nova_structures:chests/end_lighthouse/supply_lighthouse]
+[01:44:56] [Worker-Main-3/INFO]: Modifying loot table: ResourceKey[minecraft:loot_table / dungeons_arise:chests/bathhouse/bathhouse_barrels]
+[01:44:56] [Worker-Main-3/INFO]: Modifying loot table: ResourceKey[minecraft:loot_table / wythers:chests/village/forest_ruins_big_house]
+[01:44:56] [Worker-Main-3/INFO]: Modifying loot table: ResourceKey[minecraft:loot_table / minecraft:blocks/short_grass]
+[01:44:56] [Worker-Main-3/INFO]: Modifying loot table: ResourceKey[minecraft:loot_table / mss:houses_uncommon]
+[01:44:56] [Worker-Main-3/INFO]: Modifying loot table: ResourceKey[minecraft:loot_table / dungeons_arise:chests/mushroom_house/mushroom_house_barrels]
+[01:44:56] [Worker-Main-3/INFO]: Modifying loot table: ResourceKey[minecraft:loot_table / minecraft:chests/village/village_desert_house]
+[01:44:56] [Worker-Main-3/INFO]: Modifying loot table: ResourceKey[minecraft:loot_table / dungeons_arise:chests/jungle_tree_house/jungle_tree_house_treasure]
+[01:44:56] [Worker-Main-3/INFO]: Modifying loot table: ResourceKey[minecraft:loot_table / farmersdelight:chests/fd_village_savanna_house]
+[01:44:56] [Worker-Main-3/INFO]: Modifying loot table: ResourceKey[minecraft:loot_table / minecraft:blocks/tall_grass]
+[01:44:56] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/trailandtales_delight:blocks/lantern_fruits - Failed to parse either. First: Not a string: false; Second: Not a JSON object: false missed input: {"ropelogged":false}
+[01:44:56] [Worker-Main-3/INFO]: Modifying loot table: ResourceKey[minecraft:loot_table / dungeons_arise:chests/jungle_tree_house/jungle_tree_house_normal]
+[01:44:56] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/trailandtales_delight:blocks/pottery_cooking_pot - Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: farmersdelight:copy_meal; Second: Not a json array: {"function":"farmersdelight:copy_meal"}
+[01:44:56] [Worker-Main-3/INFO]: Modifying loot table: ResourceKey[minecraft:loot_table / dungeons_arise:chests/jungle_tree_house/jungle_tree_house_barrels]
+[01:44:56] [Worker-Main-3/INFO]: Modifying loot table: ResourceKey[minecraft:loot_table / minecraft:chests/village/village_snowy_house]
+[01:44:56] [Worker-Main-3/INFO]: Modifying loot table: ResourceKey[minecraft:loot_table / minecraft:chests/village/village_swamp_house]
+[01:44:56] [Worker-Main-3/INFO]: Modifying loot table: ResourceKey[minecraft:loot_table / nova_structures:chests/desert_ruins/desert_ruin_house]
+[01:44:56] [Worker-Main-3/INFO]: Modifying loot table: ResourceKey[minecraft:loot_table / minecraft:chests/village/village_plains_house]
+[01:44:56] [Worker-Main-3/INFO]: Modifying loot table: ResourceKey[minecraft:loot_table / nova_structures:chests/village/village_birch_house]
+[01:44:56] [Worker-Main-3/INFO]: Modifying loot table: ResourceKey[minecraft:loot_table / nova_structures:spawners/end_lighthouse/end_lighthouse_spawner]
+[01:44:56] [Worker-Main-3/INFO]: Modifying loot table: ResourceKey[minecraft:loot_table / farmersdelight:chests/fd_village_taiga_house]
+[01:44:56] [Worker-Main-3/INFO]: Modifying loot table: ResourceKey[minecraft:loot_table / dungeons_arise:chests/mushroom_house/mushroom_house_treasure]
+[01:44:56] [Worker-Main-3/INFO]: Modifying loot table: ResourceKey[minecraft:loot_table / nova_structures:chests/end_lighthouse/vault_lighthouse]
+[01:44:56] [Worker-Main-3/INFO]: Modifying loot table: ResourceKey[minecraft:loot_table / minecraft:chests/village/village_savanna_house]
+[01:44:56] [Worker-Main-3/INFO]: Modifying loot table: ResourceKey[minecraft:loot_table / minecraft:chests/village/village_taiga_house]
+[01:44:56] [Worker-Main-3/INFO]: Modifying loot table: ResourceKey[minecraft:loot_table / mss:houses_common]
+[01:44:56] [Worker-Main-3/INFO]: Modifying loot table: ResourceKey[minecraft:loot_table / nova_structures:chests/jungle_ruins/jungle_ruins_house]
+[01:44:56] [Worker-Main-3/INFO]: Modifying loot table: ResourceKey[minecraft:loot_table / farmersdelight:chests/fd_village_desert_house]
+[01:44:56] [Worker-Main-3/WARN]: Found loot table element validation problem in {minecraft:loot_table/dungeons_arise:chests/illager_campsite/illager_campsite_map}.pools[7].entries[0]->{minecraft:chests/pillager_outpost}.pools[6].entries[0]: Unknown loot table called supplementaries:inject/pillager_quiver
+[01:44:56] [Worker-Main-3/WARN]: Found loot table element validation problem in {minecraft:loot_table/minecraft:chests/pillager_outpost}.pools[6].entries[0]: Unknown loot table called supplementaries:inject/pillager_quiver
+[01:44:56] [Worker-Main-3/WARN]: Found loot table element validation problem in {minecraft:loot_table/pineapple_delight:blocks/pineapple_wild_crop}.pools[0].entries[0]: Unreachable entry!
+[01:44:56] [Worker-Main-3/WARN]: Found loot table element validation problem in {minecraft:loot_table/dungeons_arise:chests/illager_campsite/illager_campsite_tent}.pools[5].entries[0]->{minecraft:chests/pillager_outpost}.pools[6].entries[0]: Unknown loot table called supplementaries:inject/pillager_quiver
+[01:44:57] [Worker-Main-3/ERROR]: Invalid path in mod resource-pack mr_oldschool_netherite: minecraft:recipe/netherite_ingot - Copy.json, ignoring
+[01:44:57] [Worker-Main-2/INFO]: All Tags to be dealt with: [accessories:trinket_group_spell-quiver, accessories:trinket_group_spell-scroll, accessories:cape, accessories:trinket_group_misc-quiver, accessories:trinket_group_charm-trinket, accessories:trinket_group_legs-quiver, accessories:belt, accessories:ring, accessories:trinket_group_spell-trinket, accessories:trinket_group_spell-book, accessories:trinket_group_legs-key, accessories:back, accessories:necklace]
+[01:44:57] [Worker-Main-2/WARN]: [RuntimeTagModification] Adding Entries from [trinkets:spell/quiver] to [accessories:trinket_group_spell-quiver]: 
+     [#spell_engine:spell_quiver (from spell_engine:trinkets_compat)]
+[01:44:57] [Worker-Main-2/WARN]: [RuntimeTagModification] Adding Entries from [trinkets:spell/scroll] to [accessories:trinket_group_spell-scroll]: 
+     [spell_engine:scroll (from spell_engine:trinkets_compat)]
+[01:44:57] [Worker-Main-2/WARN]: [RuntimeTagModification] Adding Entries from [trinkets:chest/cape] to [accessories:cape]: 
+     [#vc_gliders:gliders? (from vc_gliders)]
+[01:44:57] [Worker-Main-2/WARN]: [RuntimeTagModification] Adding Entries from [trinkets:misc/quiver] to [accessories:trinket_group_misc-quiver]: 
+     [#spell_engine:spell_quiver (from spell_engine:trinkets_compat)]
+[01:44:57] [Worker-Main-2/WARN]: [RuntimeTagModification] Adding Entries from [trinkets:charm/trinket] to [accessories:trinket_group_charm-trinket]: 
+     [#spell_engine:spell_trinket (from spell_engine:trinkets_compat)]
+[01:44:57] [Worker-Main-2/WARN]: [RuntimeTagModification] Adding Entries from [trinkets:legs/quiver] to [accessories:trinket_group_legs-quiver]: 
+     [supplementaries:quiver (from supplementaries)]
+[01:44:57] [Worker-Main-2/WARN]: [RuntimeTagModification] Adding Entries from [accessories:belt] to [trinkets:legs/belt]: 
+     [#beltborne_lanterns:lamps (from bl_accessories_layer), minecraft:lantern (from bl_accessories_layer), minecraft:soul_lantern (from bl_accessories_layer)]
+[01:44:57] [Worker-Main-2/WARN]: [RuntimeTagModification] Adding Entries from [trinkets:offhand/ring] to [accessories:ring]: 
+     [#jewelry:rings (from jewelry), #spell_engine:spell_ring (from spell_engine:trinkets_compat)]
+[01:44:57] [Worker-Main-2/WARN]: [RuntimeTagModification] Adding Entries from [trinkets:hand/ring] to [accessories:ring]: 
+     [#jewelry:rings (from jewelry), #spell_engine:spell_ring (from spell_engine:trinkets_compat)]
+[01:44:57] [Worker-Main-2/WARN]: [RuntimeTagModification] Adding Entries from [trinkets:offhand/ring] to [trinkets:hand/ring]: 
+     [#jewelry:rings (from jewelry), #spell_engine:spell_ring (from spell_engine:trinkets_compat)]
+[01:44:57] [Worker-Main-2/WARN]: [RuntimeTagModification] Adding Entries from [trinkets:hand/ring] to [trinkets:offhand/ring]: 
+     [#jewelry:rings (from jewelry), #spell_engine:spell_ring (from spell_engine:trinkets_compat)]
+[01:44:57] [Worker-Main-2/WARN]: [RuntimeTagModification] Adding Entries from [trinkets:spell/trinket] to [accessories:trinket_group_spell-trinket]: 
+     [#spell_engine:spell_trinket (from spell_engine:trinkets_compat)]
+[01:44:57] [Worker-Main-2/WARN]: [RuntimeTagModification] Adding Entries from [trinkets:spell/book] to [accessories:trinket_group_spell-book]: 
+     [#spell_engine:spell_books (from spell_engine:trinkets_compat), spell_engine:scroll (from spell_engine:trinkets_compat)]
+[01:44:57] [Worker-Main-2/WARN]: [RuntimeTagModification] Adding Entries from [trinkets:legs/key] to [accessories:trinket_group_legs-key]: 
+     [supplementaries:key (from supplementaries), suppsquared:heavy_key? (from supplementaries)]
+[01:44:57] [Worker-Main-2/WARN]: [RuntimeTagModification] Adding Entries from [trinkets:chest/back] to [accessories:back]: 
+     [sophisticatedbackpacks:backpack (from sophisticatedbackpacks), sophisticatedbackpacks:copper_backpack (from sophisticatedbackpacks), sophisticatedbackpacks:iron_backpack (from sophisticatedbackpacks), sophisticatedbackpacks:gold_backpack (from sophisticatedbackpacks), sophisticatedbackpacks:diamond_backpack (from sophisticatedbackpacks), sophisticatedbackpacks:netherite_backpack (from sophisticatedbackpacks), #vc_gliders:gliders? (from vc_gliders)]
+[01:44:57] [Worker-Main-2/WARN]: [RuntimeTagModification] Adding Entries from [trinkets:chest/necklace] to [accessories:necklace]: 
+     [crittersandcompanions:pearl_necklace_1 (from crittersandcompanions), crittersandcompanions:pearl_necklace_2 (from crittersandcompanions), crittersandcompanions:pearl_necklace_3 (from crittersandcompanions), #jewelry:necklaces (from jewelry), #spell_engine:spell_necklace (from spell_engine:trinkets_compat)]
+[01:44:57] [Worker-Main-3/ERROR]: Couldn't parse data file minecraft:netherite_axe_smithing from minecraft:recipe/netherite_axe_smithing.json
+com.google.gson.JsonParseException: java.io.EOFException: End of input at line 1 column 1 path $
+	at knot/net.minecraft.class_3518.method_47993(class_3518.java:527) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3518.method_15267(class_3518.java:532) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3518.method_15276(class_3518.java:582) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4309.method_51148(class_4309.java:44) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4309.method_20731(class_4309.java:32) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4309.method_18789(class_4309.java:18) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4080.method_18791(class_4080.java:11) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) [?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?]
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
+Caused by: java.io.EOFException: End of input at line 1 column 1 path $
+	at knot/com.google.gson.stream.JsonReader.nextNonWhitespace(JsonReader.java:1457) ~[gson-2.10.1.jar:?]
+	at knot/com.google.gson.stream.JsonReader.doPeek(JsonReader.java:558) ~[gson-2.10.1.jar:?]
+	at knot/com.google.gson.stream.JsonReader.peek(JsonReader.java:433) ~[gson-2.10.1.jar:?]
+	at knot/com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:769) ~[gson-2.10.1.jar:?]
+	at knot/com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:725) ~[gson-2.10.1.jar:?]
+	at knot/com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1007) ~[gson-2.10.1.jar:?]
+	at knot/net.minecraft.class_3518.method_47993(class_3518.java:525) ~[server-intermediary.jar:?]
+	... 13 more
+[01:44:57] [Worker-Main-3/ERROR]: Couldn't parse data file minecraft:netherite_boots_smithing from minecraft:recipe/netherite_boots_smithing.json
+com.google.gson.JsonParseException: java.io.EOFException: End of input at line 1 column 1 path $
+	at knot/net.minecraft.class_3518.method_47993(class_3518.java:527) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3518.method_15267(class_3518.java:532) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3518.method_15276(class_3518.java:582) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4309.method_51148(class_4309.java:44) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4309.method_20731(class_4309.java:32) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4309.method_18789(class_4309.java:18) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4080.method_18791(class_4080.java:11) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) [?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?]
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
+Caused by: java.io.EOFException: End of input at line 1 column 1 path $
+	at knot/com.google.gson.stream.JsonReader.nextNonWhitespace(JsonReader.java:1457) ~[gson-2.10.1.jar:?]
+	at knot/com.google.gson.stream.JsonReader.doPeek(JsonReader.java:558) ~[gson-2.10.1.jar:?]
+	at knot/com.google.gson.stream.JsonReader.peek(JsonReader.java:433) ~[gson-2.10.1.jar:?]
+	at knot/com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:769) ~[gson-2.10.1.jar:?]
+	at knot/com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:725) ~[gson-2.10.1.jar:?]
+	at knot/com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1007) ~[gson-2.10.1.jar:?]
+	at knot/net.minecraft.class_3518.method_47993(class_3518.java:525) ~[server-intermediary.jar:?]
+	... 13 more
+[01:44:57] [Worker-Main-3/ERROR]: Couldn't parse data file minecraft:netherite_chestplate_smithing from minecraft:recipe/netherite_chestplate_smithing.json
+com.google.gson.JsonParseException: java.io.EOFException: End of input at line 1 column 1 path $
+	at knot/net.minecraft.class_3518.method_47993(class_3518.java:527) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3518.method_15267(class_3518.java:532) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3518.method_15276(class_3518.java:582) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4309.method_51148(class_4309.java:44) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4309.method_20731(class_4309.java:32) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4309.method_18789(class_4309.java:18) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4080.method_18791(class_4080.java:11) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) [?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?]
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
+Caused by: java.io.EOFException: End of input at line 1 column 1 path $
+	at knot/com.google.gson.stream.JsonReader.nextNonWhitespace(JsonReader.java:1457) ~[gson-2.10.1.jar:?]
+	at knot/com.google.gson.stream.JsonReader.doPeek(JsonReader.java:558) ~[gson-2.10.1.jar:?]
+	at knot/com.google.gson.stream.JsonReader.peek(JsonReader.java:433) ~[gson-2.10.1.jar:?]
+	at knot/com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:769) ~[gson-2.10.1.jar:?]
+	at knot/com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:725) ~[gson-2.10.1.jar:?]
+	at knot/com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1007) ~[gson-2.10.1.jar:?]
+	at knot/net.minecraft.class_3518.method_47993(class_3518.java:525) ~[server-intermediary.jar:?]
+	... 13 more
+[01:44:57] [Worker-Main-3/ERROR]: Couldn't parse data file minecraft:netherite_helmet_smithing from minecraft:recipe/netherite_helmet_smithing.json
+com.google.gson.JsonParseException: java.io.EOFException: End of input at line 1 column 1 path $
+	at knot/net.minecraft.class_3518.method_47993(class_3518.java:527) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3518.method_15267(class_3518.java:532) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3518.method_15276(class_3518.java:582) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4309.method_51148(class_4309.java:44) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4309.method_20731(class_4309.java:32) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4309.method_18789(class_4309.java:18) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4080.method_18791(class_4080.java:11) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) [?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?]
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
+Caused by: java.io.EOFException: End of input at line 1 column 1 path $
+	at knot/com.google.gson.stream.JsonReader.nextNonWhitespace(JsonReader.java:1457) ~[gson-2.10.1.jar:?]
+	at knot/com.google.gson.stream.JsonReader.doPeek(JsonReader.java:558) ~[gson-2.10.1.jar:?]
+	at knot/com.google.gson.stream.JsonReader.peek(JsonReader.java:433) ~[gson-2.10.1.jar:?]
+	at knot/com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:769) ~[gson-2.10.1.jar:?]
+	at knot/com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:725) ~[gson-2.10.1.jar:?]
+	at knot/com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1007) ~[gson-2.10.1.jar:?]
+	at knot/net.minecraft.class_3518.method_47993(class_3518.java:525) ~[server-intermediary.jar:?]
+	... 13 more
+[01:44:57] [Worker-Main-3/ERROR]: Couldn't parse data file minecraft:netherite_hoe_smithing from minecraft:recipe/netherite_hoe_smithing.json
+com.google.gson.JsonParseException: java.io.EOFException: End of input at line 1 column 1 path $
+	at knot/net.minecraft.class_3518.method_47993(class_3518.java:527) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3518.method_15267(class_3518.java:532) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3518.method_15276(class_3518.java:582) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4309.method_51148(class_4309.java:44) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4309.method_20731(class_4309.java:32) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4309.method_18789(class_4309.java:18) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4080.method_18791(class_4080.java:11) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) [?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?]
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
+Caused by: java.io.EOFException: End of input at line 1 column 1 path $
+	at knot/com.google.gson.stream.JsonReader.nextNonWhitespace(JsonReader.java:1457) ~[gson-2.10.1.jar:?]
+	at knot/com.google.gson.stream.JsonReader.doPeek(JsonReader.java:558) ~[gson-2.10.1.jar:?]
+	at knot/com.google.gson.stream.JsonReader.peek(JsonReader.java:433) ~[gson-2.10.1.jar:?]
+	at knot/com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:769) ~[gson-2.10.1.jar:?]
+	at knot/com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:725) ~[gson-2.10.1.jar:?]
+	at knot/com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1007) ~[gson-2.10.1.jar:?]
+	at knot/net.minecraft.class_3518.method_47993(class_3518.java:525) ~[server-intermediary.jar:?]
+	... 13 more
+[01:44:57] [Worker-Main-3/ERROR]: Couldn't parse data file minecraft:netherite_leggings_smithing from minecraft:recipe/netherite_leggings_smithing.json
+com.google.gson.JsonParseException: java.io.EOFException: End of input at line 1 column 1 path $
+	at knot/net.minecraft.class_3518.method_47993(class_3518.java:527) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3518.method_15267(class_3518.java:532) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3518.method_15276(class_3518.java:582) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4309.method_51148(class_4309.java:44) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4309.method_20731(class_4309.java:32) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4309.method_18789(class_4309.java:18) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4080.method_18791(class_4080.java:11) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) [?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?]
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
+Caused by: java.io.EOFException: End of input at line 1 column 1 path $
+	at knot/com.google.gson.stream.JsonReader.nextNonWhitespace(JsonReader.java:1457) ~[gson-2.10.1.jar:?]
+	at knot/com.google.gson.stream.JsonReader.doPeek(JsonReader.java:558) ~[gson-2.10.1.jar:?]
+	at knot/com.google.gson.stream.JsonReader.peek(JsonReader.java:433) ~[gson-2.10.1.jar:?]
+	at knot/com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:769) ~[gson-2.10.1.jar:?]
+	at knot/com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:725) ~[gson-2.10.1.jar:?]
+	at knot/com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1007) ~[gson-2.10.1.jar:?]
+	at knot/net.minecraft.class_3518.method_47993(class_3518.java:525) ~[server-intermediary.jar:?]
+	... 13 more
+[01:44:57] [Worker-Main-3/ERROR]: Couldn't parse data file minecraft:netherite_pickaxe_smithing from minecraft:recipe/netherite_pickaxe_smithing.json
+com.google.gson.JsonParseException: java.io.EOFException: End of input at line 1 column 1 path $
+	at knot/net.minecraft.class_3518.method_47993(class_3518.java:527) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3518.method_15267(class_3518.java:532) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3518.method_15276(class_3518.java:582) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4309.method_51148(class_4309.java:44) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4309.method_20731(class_4309.java:32) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4309.method_18789(class_4309.java:18) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4080.method_18791(class_4080.java:11) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) [?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?]
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
+Caused by: java.io.EOFException: End of input at line 1 column 1 path $
+	at knot/com.google.gson.stream.JsonReader.nextNonWhitespace(JsonReader.java:1457) ~[gson-2.10.1.jar:?]
+	at knot/com.google.gson.stream.JsonReader.doPeek(JsonReader.java:558) ~[gson-2.10.1.jar:?]
+	at knot/com.google.gson.stream.JsonReader.peek(JsonReader.java:433) ~[gson-2.10.1.jar:?]
+	at knot/com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:769) ~[gson-2.10.1.jar:?]
+	at knot/com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:725) ~[gson-2.10.1.jar:?]
+	at knot/com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1007) ~[gson-2.10.1.jar:?]
+	at knot/net.minecraft.class_3518.method_47993(class_3518.java:525) ~[server-intermediary.jar:?]
+	... 13 more
+[01:44:57] [Worker-Main-3/ERROR]: Couldn't parse data file minecraft:netherite_scrap from minecraft:recipe/netherite_scrap.json
+com.google.gson.JsonParseException: java.io.EOFException: End of input at line 1 column 1 path $
+	at knot/net.minecraft.class_3518.method_47993(class_3518.java:527) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3518.method_15267(class_3518.java:532) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3518.method_15276(class_3518.java:582) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4309.method_51148(class_4309.java:44) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4309.method_20731(class_4309.java:32) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4309.method_18789(class_4309.java:18) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4080.method_18791(class_4080.java:11) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) [?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?]
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
+Caused by: java.io.EOFException: End of input at line 1 column 1 path $
+	at knot/com.google.gson.stream.JsonReader.nextNonWhitespace(JsonReader.java:1457) ~[gson-2.10.1.jar:?]
+	at knot/com.google.gson.stream.JsonReader.doPeek(JsonReader.java:558) ~[gson-2.10.1.jar:?]
+	at knot/com.google.gson.stream.JsonReader.peek(JsonReader.java:433) ~[gson-2.10.1.jar:?]
+	at knot/com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:769) ~[gson-2.10.1.jar:?]
+	at knot/com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:725) ~[gson-2.10.1.jar:?]
+	at knot/com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1007) ~[gson-2.10.1.jar:?]
+	at knot/net.minecraft.class_3518.method_47993(class_3518.java:525) ~[server-intermediary.jar:?]
+	... 13 more
+[01:44:57] [Worker-Main-3/ERROR]: Couldn't parse data file minecraft:netherite_scrap_from_blasting from minecraft:recipe/netherite_scrap_from_blasting.json
+com.google.gson.JsonParseException: java.io.EOFException: End of input at line 1 column 1 path $
+	at knot/net.minecraft.class_3518.method_47993(class_3518.java:527) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3518.method_15267(class_3518.java:532) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3518.method_15276(class_3518.java:582) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4309.method_51148(class_4309.java:44) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4309.method_20731(class_4309.java:32) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4309.method_18789(class_4309.java:18) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4080.method_18791(class_4080.java:11) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) [?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?]
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
+Caused by: java.io.EOFException: End of input at line 1 column 1 path $
+	at knot/com.google.gson.stream.JsonReader.nextNonWhitespace(JsonReader.java:1457) ~[gson-2.10.1.jar:?]
+	at knot/com.google.gson.stream.JsonReader.doPeek(JsonReader.java:558) ~[gson-2.10.1.jar:?]
+	at knot/com.google.gson.stream.JsonReader.peek(JsonReader.java:433) ~[gson-2.10.1.jar:?]
+	at knot/com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:769) ~[gson-2.10.1.jar:?]
+	at knot/com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:725) ~[gson-2.10.1.jar:?]
+	at knot/com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1007) ~[gson-2.10.1.jar:?]
+	at knot/net.minecraft.class_3518.method_47993(class_3518.java:525) ~[server-intermediary.jar:?]
+	... 13 more
+[01:44:57] [Worker-Main-3/ERROR]: Couldn't parse data file minecraft:netherite_shovel_smithing from minecraft:recipe/netherite_shovel_smithing.json
+com.google.gson.JsonParseException: java.io.EOFException: End of input at line 1 column 1 path $
+	at knot/net.minecraft.class_3518.method_47993(class_3518.java:527) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3518.method_15267(class_3518.java:532) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3518.method_15276(class_3518.java:582) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4309.method_51148(class_4309.java:44) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4309.method_20731(class_4309.java:32) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4309.method_18789(class_4309.java:18) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4080.method_18791(class_4080.java:11) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) [?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?]
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
+Caused by: java.io.EOFException: End of input at line 1 column 1 path $
+	at knot/com.google.gson.stream.JsonReader.nextNonWhitespace(JsonReader.java:1457) ~[gson-2.10.1.jar:?]
+	at knot/com.google.gson.stream.JsonReader.doPeek(JsonReader.java:558) ~[gson-2.10.1.jar:?]
+	at knot/com.google.gson.stream.JsonReader.peek(JsonReader.java:433) ~[gson-2.10.1.jar:?]
+	at knot/com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:769) ~[gson-2.10.1.jar:?]
+	at knot/com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:725) ~[gson-2.10.1.jar:?]
+	at knot/com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1007) ~[gson-2.10.1.jar:?]
+	at knot/net.minecraft.class_3518.method_47993(class_3518.java:525) ~[server-intermediary.jar:?]
+	... 13 more
+[01:44:57] [Worker-Main-3/ERROR]: Couldn't parse data file minecraft:netherite_sword_smithing from minecraft:recipe/netherite_sword_smithing.json
+com.google.gson.JsonParseException: java.io.EOFException: End of input at line 1 column 1 path $
+	at knot/net.minecraft.class_3518.method_47993(class_3518.java:527) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3518.method_15267(class_3518.java:532) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3518.method_15276(class_3518.java:582) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4309.method_51148(class_4309.java:44) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4309.method_20731(class_4309.java:32) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4309.method_18789(class_4309.java:18) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4080.method_18791(class_4080.java:11) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) [?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?]
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
+Caused by: java.io.EOFException: End of input at line 1 column 1 path $
+	at knot/com.google.gson.stream.JsonReader.nextNonWhitespace(JsonReader.java:1457) ~[gson-2.10.1.jar:?]
+	at knot/com.google.gson.stream.JsonReader.doPeek(JsonReader.java:558) ~[gson-2.10.1.jar:?]
+	at knot/com.google.gson.stream.JsonReader.peek(JsonReader.java:433) ~[gson-2.10.1.jar:?]
+	at knot/com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:769) ~[gson-2.10.1.jar:?]
+	at knot/com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:725) ~[gson-2.10.1.jar:?]
+	at knot/com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1007) ~[gson-2.10.1.jar:?]
+	at knot/net.minecraft.class_3518.method_47993(class_3518.java:525) ~[server-intermediary.jar:?]
+	... 13 more
+[01:44:57] [main/ERROR]: Parsing error loading recipe trailandtales_delight:cutting/cherry_petal_from_cherry_sapling
+com.google.gson.JsonParseException: No key item in MapLike[{"count":4,"id":"trailandtales_delight:cherry_petal"}]
+	at knot/com.mojang.serialization.DataResult$Error.md064f22$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at knot/net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at knot/net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at knot/net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:514) [fabric-loader-0.18.0.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:72) [fabric-loader-0.18.0.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.18.0.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.18.0.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
+[01:44:58] [main/INFO]: Loaded 4132 recipes
+[01:44:58] [main/ERROR]: Parsing error loading custom advancement dungeons_arise:find_illager_corsair_or_illager_galley: No key id in MapLike[{"item":"minecraft:tropical_fish"}]
+[01:44:58] [main/ERROR]: Parsing error loading custom advancement dungeons_arise:find_infested_temple_map: No key id in MapLike[{"item":"minecraft:filled_map"}]
+[01:44:58] [main/ERROR]: Parsing error loading custom advancement dungeons_arise:find_greenwood_pub: No key id in MapLike[{"item":"minecraft:barrel"}]
+[01:44:58] [main/ERROR]: Parsing error loading custom advancement dungeons_arise:find_thornborn_towers: No key id in MapLike[{"item":"minecraft:rose_bush"}]
+[01:44:58] [main/ERROR]: Parsing error loading custom advancement dungeons_arise:find_keep_kayra: No key id in MapLike[{"item":"minecraft:lily_pad"}]
+[01:44:58] [main/ERROR]: Parsing error loading custom advancement trailandtales_delight:tat_delight: No key id in MapLike[{"item":"trailandtales_delight:pottery_cooking_pot"}]
+[01:44:58] [main/ERROR]: Couldn't load advancements: [minecraft:give_quest_trader_trade, dungeons_arise:find_plague_asylum, minecraft:wander_add_map, dungeons_arise:find_fishing_hut]
+[01:44:58] [main/INFO]: Loaded 3543 advancements
+[01:44:58] [main/INFO]: Applied 17 data villager trades
+[01:44:58] [main/INFO]: Configuration has been loaded
+[01:44:58] [main/WARN]: Could not decode GlobalLootModifier with json id mynethersdelight:add_loot_piglin_bartering - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
+[01:44:58] [main/WARN]: Could not decode GlobalLootModifier with json id mynethersdelight:remplace_hoglin_pork_loin - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: mynethersdelight:remplace_item
+[01:44:58] [main/WARN]: Could not decode GlobalLootModifier with json id mynethersdelight:scavenging_strider_egg - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[01:44:58] [main/WARN]: Could not decode GlobalLootModifier with json id mynethersdelight:add_loot_bastion_treasure - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
+[01:44:58] [main/WARN]: Could not decode GlobalLootModifier with json id mynethersdelight:slicing_magma_cake - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: mynethersdelight:especial_drop
+[01:44:58] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:fishing_antique_ink_treasure - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: moonlight:add_item
+[01:44:58] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:cut_elder_guardian - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[01:44:58] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:cut_tentacles_squid - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[01:44:58] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:guardian_drop - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[01:44:58] [main/WARN]: Could not decode GlobalLootModifier with json id farmersdelight:cut_tentacles_glow_squid - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[01:44:58] [main/WARN]: Could not decode GlobalLootModifier with json id mynethersdelight:add_loot_bastion_hoglin_stable - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_loot_table
+[01:44:58] [main/WARN]: Could not decode GlobalLootModifier with json id mynethersdelight:scavenging_onion_from_ghast - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[01:44:58] [main/WARN]: Could not decode GlobalLootModifier with json id mynethersdelight:scavenging_extra_ghasta1 - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[01:44:58] [main/WARN]: Could not decode GlobalLootModifier with json id mynethersdelight:scavenging_extra_ghasta0 - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[01:44:58] [main/WARN]: Could not decode GlobalLootModifier with json id mynethersdelight:remplace_hoglin_cooked_pork_loin - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: mynethersdelight:remplace_item
+[01:44:58] [main/WARN]: Could not decode GlobalLootModifier with json id mynethersdelight:scavenging_extra_strider_egg2 - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[01:44:58] [main/WARN]: Could not decode GlobalLootModifier with json id mynethersdelight:scavenging_extra_strider_egg1 - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[01:44:58] [main/WARN]: Could not decode GlobalLootModifier with json id mynethersdelight:scavenging_strider_slice - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[01:44:58] [main/WARN]: Could not decode GlobalLootModifier with json id mynethersdelight:scavenging_extra_strider_egg0 - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[01:44:58] [main/WARN]: Could not decode GlobalLootModifier with json id mynethersdelight:scavenging_extra_strider_slice0 - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[01:44:58] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:straw_from_flax - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: moonlight:add_item
+[01:44:58] [main/WARN]: Could not decode GlobalLootModifier with json id mynethersdelight:scavenging_extra_strider_slice1 - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[01:44:58] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:replace_rope - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: supplementaries:replace_rope
+[01:44:58] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:fishing_antique_ink - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: moonlight:add_item
+[01:44:58] [main/WARN]: Could not decode GlobalLootModifier with json id mynethersdelight:scavenging_ghasta - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[01:44:58] [main/WARN]: Could not decode GlobalLootModifier with json id mynethersdelight:scavenging_hoglin_hide - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: farmersdelight:add_item
+[01:44:58] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:ash_from_burning_mobs - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: moonlight:add_item
+[01:44:58] [main/INFO]: Loaded 28 flute songs
+[01:44:58] [main/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:entity_type] are present in data pack: forge:bosses
+[01:44:58] [main/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:item] are present in data pack: c:ingots/lead, c:storage_blocks/lead
+[01:44:58] [main/INFO]: Registering custom dispenser behaviors
+[01:44:58] [main/WARN]: Initial datapack load took 4.616 s
+[01:44:58] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[01:44:58] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[01:44:58] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[01:44:58] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[01:44:58] [main/INFO]: Applied 2277 biome modifications to 252 of 265 new biomes in 136.2 ms
+[01:44:58] [Server thread/INFO]: Initialized mcCoroutineScope (MinecraftServer as executor)
+[01:44:58] [Server thread/INFO]: Dispatching loading event for config easyanvils-server.toml
+[01:44:58] [Server thread/INFO]: Dispatching loading event for config easymagic-server.toml
+[01:44:58] [Server thread/INFO]: Dispatching loading event for config iteminteractions-server.toml
+[01:44:58] [Server thread/INFO]: Loading server configs...
+[01:44:58] [Server thread/INFO]: [STDOUT]: Encoded SpellRegistry size (with package overhead): ??? bytes (in 2 string chunks with the size of 10000)
+[01:44:58] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[01:44:58] [Server thread/INFO]: Loading properties
+[01:44:58] [Server thread/INFO]: Default game type: SURVIVAL
+[01:44:58] [Server thread/INFO]: Generating keypair
+[01:44:59] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:44:59] [Server thread/INFO]: Using epoll channel type
+[01:44:59] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:44:59] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:44:59] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:44:59] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:44:59] [Server thread/INFO]: Preparing level "world"
+[01:44:59] [Server thread/INFO]: Enforcing safe world random access
+[01:44:59] [Server thread/INFO]: [Surveyor] Loading data for minecraft:overworld
+[01:44:59] [Server thread/INFO]: [Surveyor] Finished loading data for minecraft:overworld
+[01:44:59] [Server thread/INFO]: Using TheSpeedyObjectFactory with Unsafe
+[01:44:59] [Server thread/INFO]: [Surveyor] Loading data for minecraft:the_nether
+[01:44:59] [Server thread/INFO]: [Surveyor] Finished loading data for minecraft:the_nether
+[01:45:01] [Server thread/INFO]: [Surveyor] Loading data for minecraft:the_end
+[01:45:01] [Server thread/INFO]: [Surveyor] Finished loading data for minecraft:the_end
+[01:45:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:45:02] [c2me-worker-1/INFO]: Preparing spawn area: 0%
+[01:45:02] [c2me-worker-1/INFO]: Preparing spawn area: 0%
+[01:45:02] [c2me-worker-2/INFO]: Preparing spawn area: 0%
+[01:45:03] [c2me-worker-1/INFO]: Preparing spawn area: 0%
+[01:45:03] [c2me-worker-1/INFO]: Preparing spawn area: 0%
+[01:45:05] [minecraft_overworld - Light/INFO]: Preparing spawn area: 0%
+[01:45:05] [minecraft_overworld - Light/INFO]: Preparing spawn area: 0%
+[01:45:06] [minecraft_overworld - Light/INFO]: Preparing spawn area: 0%
+[01:45:06] [minecraft_overworld - Light/INFO]: Preparing spawn area: 0%
+[01:45:06] [minecraft_overworld - Light/INFO]: Preparing spawn area: 0%
+[01:45:06] [Server thread/INFO]: Preparing spawn area: 2%
+[01:45:07] [Server thread/INFO]: Preparing spawn area: 63%
+[01:45:07] [Server thread/INFO]: Preparing spawn area: 85%
+[01:45:08] [Server thread/INFO]: Preparing spawn area: 93%
+[01:45:08] [Server thread/INFO]: Time elapsed: 6826 ms
+[01:45:08] [Server thread/INFO]: Done (9.491s)! For help, type "help"
+[01:45:08] [Server thread/WARN]: Dedicated server took 50.721 seconds to load
+[01:45:08] [Server thread/INFO]: Lamp registry ready: 2 items (2 builtin, 0 extra)
+[01:45:08] [Server thread/INFO]: Loading gravestone history from disk...
+[01:45:08] [Server thread/INFO]: Loaded gravestone history for 1 players
+[01:45:08] [Server thread/INFO]: [Surveyor] Loading data for minecraft:server_faucet_test_level
+[01:45:08] [Server thread/INFO]: [Surveyor] Finished loading data for minecraft:server_faucet_test_level
+[01:45:09] [C2ME Storage #12/INFO]: Storage thread Thread[#88,C2ME Storage #12,5,main] stopped
+[01:45:09] [C2ME Storage #10/INFO]: Storage thread Thread[#86,C2ME Storage #10,5,main] stopped
+[01:45:09] [C2ME Storage #11/INFO]: Storage thread Thread[#87,C2ME Storage #11,5,main] stopped
+[01:45:09] [Server thread/INFO]: [Surveyor] Loading data for minecraft:server_projectile_test_level
+[01:45:09] [Server thread/INFO]: [Surveyor] Finished loading data for minecraft:server_projectile_test_level
+[01:45:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2082ms or 41 ticks behind
+[01:45:11] [Server thread/INFO]: [STDOUT]: Lithium Cached BlockState Flags are disabled!
+[01:50:38] [Server thread/WARN]: Unknown attachment type vc_gliders:is_gliding found when deserializing, skipping
+[01:50:38] [Server thread/WARN]: Unknown attachment type vc_gliders:lightning_timer found when deserializing, skipping
+[01:50:38] [Server thread/INFO]: Madericz[/127.237.250.73:48865] logged in with entity id 756 at (-9.417473363103552, 93.0, 30.144799333042684)
+[01:50:38] [Server thread/INFO]: Sending server config values to client
+[01:50:38] [Server thread/INFO]: Sent config sync packet to 1 player(s)
+[01:50:38] [Server thread/INFO]: Madericz joined the game
+[01:50:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2114ms or 42 ticks behind
+[01:50:43] [Server thread/INFO]: Receiving client config
+[01:51:38] [Server thread/INFO]: List of possible modded bow items are empty, preparing to fill up...
+[01:51:38] [Server thread/INFO]: Found 9 modded bow items, all have been registered. Expect skeletons to spawn with them!
+[01:52:33] [Server thread/INFO]: Madericz lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:set_creative_mode_slot'
+[01:52:33] [Server thread/INFO]: Madericz left the game
+[01:52:44] [Server thread/INFO]: com.mojang.authlib.GameProfile@df5d415[id=71d83d30-d41d-3f81-91aa-4c4bec722ebb,name=Madericz,properties={}] lost connection: Disconnected
